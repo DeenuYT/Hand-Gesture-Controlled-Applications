@@ -7,7 +7,6 @@ from PIL import Image, ImageTk
 from image_viewer import ImageViewer
 from video_player import VideoPlayer
 from audio_player import AudioPlayer
-from live import Live
 
 class Media:
     def __init__(self, root):
